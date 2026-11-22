@@ -1,0 +1,4 @@
+interface:
+  display_name: "pic-ppt"
+  short_description: "以生图重绘底图、线框及小图，按原图重构并交付文字可编辑的PPT"
+  default_prompt: "请使用 $pic-ppt 重构我上传的PPT效果图：先提取底图，再逐个高清重绘透明线框与小图，最后按原图配色排版可编辑文字，并交付PPTX。"
